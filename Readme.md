@@ -1,4 +1,4 @@
-﻿Another World Games - Slot Game Logic
+Another World Games - Slot Game Logic
 Unity-Based Box Matching Puzzle Game
 
 Overview
