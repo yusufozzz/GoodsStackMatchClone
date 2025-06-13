@@ -1,3 +1,5 @@
+[GoodsStackMatchCloneGameplay](https://github.com/user-attachments/assets/d760aaf3-6fc5-494c-8fac-334aa352afd9)
+
 Another World Games - Slot Game Logic
 Unity-Based Box Matching Puzzle Game
 
@@ -51,7 +53,8 @@ Random colors
 If distribution fails after 10 attempts → Scene reloads
 
 Box Placement
-Player taps a box → BoxMovement plays DOJump animation to slot
+Player taps a box → BoxMovement plays DOJump animation to slot!
+
 
 On successful placement → OnPlaced event triggers automatic operations
 
