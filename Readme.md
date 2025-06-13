@@ -4,6 +4,11 @@ Unity-Based Box Matching Puzzle Game
 Overview
 This is a Unity-based slot/box matching puzzle game where players place boxes into slots and organize the items inside them. The game features automatic item matching logic, box completion checks, and level progression.
 
+This test case took about 15 hours.
+Level Manager 2 hours.
+Slot operations 3 hours.
+UI and everything else took about 10 hours.
+
 Core Systems
 1. Manager System
    SlotManager → Handles all slot operations (placement, validation, events)
